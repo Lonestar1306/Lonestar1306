@@ -111,12 +111,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Lone/Lone/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Lone/count.svg?"  />
 </div>
