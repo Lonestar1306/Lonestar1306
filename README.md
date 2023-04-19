@@ -108,7 +108,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lone&locale=en&hide_title=false&layout=default &card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
