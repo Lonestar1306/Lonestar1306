@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- 🔭 My name is Giovanni, i'm 23 and i'm Italian <br>- 💻 Currently working as Junior Developer<br>- 📚 I'm currently learning Angular<br>- 🎮 In my free time i build  PCs and Custom Mechanical Keyboards<br>- 💬 Ask me about: Videogames, TCGs and Nerd Culture<br>- 🕹️ Fun fact: I use tabs instead of spaces!</p>
+<p align="left">- 🔭 My name is Giovanni, i'm 25 and i'm Italian <br>- 💻 Currently working as Junior Developer<br>- 📚 I'm currently learning Angular<br>- 🎮 In my free time i build  PCs and Custom Mechanical Keyboards<br>- 💬 Ask me about: Videogames, TCGs and Nerd Culture<br>- 🕹️ Fun fact: I use tabs instead of spaces!</p>
 
 ###
 
