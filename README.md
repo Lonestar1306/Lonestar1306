@@ -52,8 +52,7 @@ When I'm not monitoring servers or writing scripts, you can find me:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lonestar1306&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lonestar1306&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Lonestar1306&theme=tokyonight&show_icons=true" alt="Stats" />
 </div>
 
 ---
