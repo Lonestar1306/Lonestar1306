@@ -38,7 +38,7 @@ I am a **System Administrator** currently working for a multinational corporatio
 
 ---
 
-## 🕹️ The Nerd Side (360°)
+## 🕹️ Free Time
 
 When I'm not monitoring servers or writing scripts, you can find me:
 
