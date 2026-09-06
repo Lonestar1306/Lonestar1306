@@ -84,10 +84,10 @@ current_projects:
 
 | Category | Field Log |
 | :--- | :--- |
-| **🎮 Gaming** | ARMA III/Reforger, Squad, Tarkov, WoW, Dota 2, FF XIV. In GTA Online, you'll find me using Ghost Organization tactics. |
-| **🏎️ Automotive** | Static Meet organizer. Huge weak spot for American V8s and JDM car culture. |
+| **🎮 Gaming Stuff** | ARMA III/Reforger, Squad, Tarkov, WoW, Dota 2, FF XIV. In GTA Online, you'll find me using Ghost Organization tactics. |
+| **🏎️ Car Stuff** | Static Meet organizer. Huge weak spot for American V8s and JDM car culture. |
 | **🗯️ Nerd Stuff** | Collector of DC/Batman Comics, MTG, YuGiOh and boardgames. |
-| **🎸 Music** | Campfire guitarist exploring the transition to digital piano. |
+| **🎸 Music Stuff** | Campfire guitarist exploring the transition to digital piano. |
 
 ---
 
