@@ -1,61 +1,116 @@
-# Hi there, I'm Giovanni! 👋
-
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXZueXJueXZueXJueXZueXJueXZueXJueXZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjPQC1Q7UsC88/giphy.gif" width="250" alt="Nerd Greeting">
-  <br>
-  <h3>🚀 System Administrator | Developer | 360° Nerd</h3>
-  <p><i>"Automating the world by day, saving virtual worlds by night."</i></p>
+
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,14,24&height=220&section=header&text=Giovanni%20%2F%2F%20Lonestar1306&fontSize=42&fontAlignY=38&animation=twinkling&desc=System%20Administrator%20%7C%20Backend%20Developer%20%7C%20Homelab%20Enthusiast&descFontSize=16&descAlignY=60&theme=tokyonight" width="100%" alt="Header Banner"/>
+
+  <br/>
+
+  <!-- Typing Effect Dinamico -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Automating+the+world+by+day...;Securing+sectors+in+Tarkov+%26+Ready+or+Not;Building+Proxmox+%26+Docker+Homelabs;May+your+uptime+be+high+and+ping+be+low+%F0%9F%96%96" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://github.com/Lonestar1306"><img src="https://komarev.com/ghpvc/?username=Lonestar1306&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+    <img src="https://img.shields.io/badge/Status-Automating%20Everything-2ea44f?style=flat-square&logo=githubactions&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Focus"/>
+  </p>
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Transmission // About Me
 
-I am a **System Administrator** currently working for a multinational corporation. While my daily bread is managing complex infrastructures, I have a deep passion for gaming and technology.
-
-- 🔭 **Current Focus:** Managing enterprise-level systems and optimizing workflows.
-- 🌱 **Learning:** Always diving deeper into **Go** and advanced **Cloud Architectures**.
-- 🐍 **Coding:** I mainly develop in **Python**, **Go**, and **Full-stack web technologies**.
-- ☁️ **Infrastructure:** Experienced in system stability, security, and scalability.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+```yaml
+identity:
+  name: Giovanni
+  callsign: Lonestar1306
+  role: System Administrator / IT Professional
+  location: Italy
+passions:
+  core: [Homelab Architecture, LXC & Docker, Perl/JS Development, Local LLMs]
+  culture: [Tactical Milsim Gaming, Static Car Meets, Batman Noir Comics, Guitar]
+current_projects:
+  - Managing Proxmox environments & CGNAT bypass with Tailscale 📡
+  - Engineering automated IPTV/Media pipelines (Pirates TV) 🏴‍☠️
+  - Deploying local AI endpoints via vLLM & Qwen 🤖
+```
 
 ---
 
-## 🕹️ Free Time
-
-When I'm not monitoring servers or writing scripts, you can find me:
-
-- 🎮 **Gaming:** Hardcore PC and PlayStation gamer.
-- 🎞️ **Cinema:** Huge movie buff (from sci-fi classics to modern masterpieces).
-- 🏎️ **Motors:** Car enthusiast and tech-lover.
-- 🃏 **Tabletop:** TCG player, Board Game strategist, and Comic book collector.
-
----
-
-## 📊 GitHub Stats
+### 🛠️ Tech Armory & Tools
 
 <div align="center">
-  <img src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=Lonestar1306&theme=tokyonight&show_icons=true" alt="Stats" />
+
+#### Systems & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+#### Languages & Backend Logic
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+#### Web & Tooling
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
-<p align="center">
-  <i>"May your uptime be high and your ping be low."</i> 🖖
-</p>
+
+### 🕹️ Side Quests & Offline Hobbies
+
+| Category | Field Log |
+| :--- | :--- |
+| **🎮 Tactical Gaming** | ARMA III/Reforger, Squad, Ready or Not, Tarkov & pushing frames on the RTX 5080. Utilizing Ghost Organization setups. Also rocking the PS5 Pro. |
+| **🏎️ Automotive** | Hardparkevents organizer. Huge weak spot for American V8s and JDM car culture. |
+| **🦇 Reading & Lore** | Collector of gritty Batman arcs (Anno Uno, Vittoria Oscura, Il Lungo Halloween). |
+| **🎸 Music** | Campfire guitarist exploring the transition to digital piano. |
+
+---
+
+### 📊 Telemetry & GitHub Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Lonestar1306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%" alt="Stats Card" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lonestar1306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" width="100%" alt="Top Languages Card" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lonestar1306&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+
+  ### 📡 Open Frequencies // Let's Connect
+
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <br/><br/>
+  <sub><i>"May your uptime be high, your latency low, and your commits frequent."</i> 🖖</sub>
+
+</div>
