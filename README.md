@@ -68,11 +68,25 @@ current_projects:
 
 ### 🕹️ Side Quests & Offline Hobbies
 
+<details>
+<summary><b>🖥️ Unfold my Battlestation Specs</b></summary>
+<br>
+
+- **The Rig:** Alienware Area 51 AAT2250
+- **CPU / GPU:** Intel Core Ultra 9 285K | NVIDIA GeForce RTX 5080 |32GB DDR5 @6400
+- **Cooling:** Noctua NF-A12x25 G2 (360mm Radiator)
+- **Displays:** 39" Alienware AW3926QW
+- **Audio:** Sennheiser Momentum 4 | Logitech G YETI | Logitech Z906 5.1 System
+- **Console:** PlayStation 5 Pro
+
+</details>
+<br>
+
 | Category | Field Log |
 | :--- | :--- |
-| **🎮 Tactical Gaming** | ARMA III/Reforger, Squad, Ready or Not, Tarkov & pushing frames on the RTX 5080. Utilizing Ghost Organization setups. Also rocking the PS5 Pro. |
-| **🏎️ Automotive** | Hardparkevents organizer. Huge weak spot for American V8s and JDM car culture. |
-| **🦇 Reading & Lore** | Collector of gritty Batman arcs (Anno Uno, Vittoria Oscura, Il Lungo Halloween). |
+| **🎮 Gaming** | ARMA III/Reforger, Squad, Tarkov, WoW, Dota 2, FF XIV. In GTA Online, you'll find me using Ghost Organization tactics. |
+| **🏎️ Automotive** | Static Meet organizer. Huge weak spot for American V8s and JDM car culture. |
+| **🗯️ Comics & TCG ** | Collector of DC/Batman Comics, MTG, YuGiOh and boardgames. |
 | **🎸 Music** | Campfire guitarist exploring the transition to digital piano. |
 
 ---
@@ -103,11 +117,11 @@ current_projects:
 
   ### 📡 Open Frequencies // Let's Connect
 
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linktr.ee/l0n3st4r" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-1DE9B6?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://steamcommunity.com/id/Trane1306/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
 
   <br/><br/>
