@@ -86,7 +86,7 @@ current_projects:
 | :--- | :--- |
 | **🎮 Gaming** | ARMA III/Reforger, Squad, Tarkov, WoW, Dota 2, FF XIV. In GTA Online, you'll find me using Ghost Organization tactics. |
 | **🏎️ Automotive** | Static Meet organizer. Huge weak spot for American V8s and JDM car culture. |
-| **🗯️ Comics & TCG** | Collector of DC/Batman Comics, MTG, YuGiOh and boardgames. |
+| **🗯️ Nerd Stuff** | Collector of DC/Batman Comics, MTG, YuGiOh and boardgames. |
 | **🎸 Music** | Campfire guitarist exploring the transition to digital piano. |
 
 ---
