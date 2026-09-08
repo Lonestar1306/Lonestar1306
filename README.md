@@ -73,8 +73,8 @@ current_projects:
 <br>
 
 - **The Rig:** Alienware Area 51 AAT2250
-- **CPU / GPU:** Intel Core Ultra 9 285K | NVIDIA GeForce RTX 5080 |32GB DDR5 @6400
-- **Cooling:** Noctua NF-A12x25 G2 (360mm Radiator)
+- **CPU / GPU:** Intel Core Ultra 9 285K | NVIDIA GeForce RTX 5080 | 32GB DDR5 @6400
+- **Cooling:** 3 Noctua NF-A12x25 G2 (360mm Radiator) + 2 Noctua NF-A14x25 G2
 - **Displays:** 39" Alienware AW3926QW
 - **Audio:** Sennheiser Momentum 4 | Logitech G YETI | Logitech Z906 5.1 System
 - **Console:** PlayStation 5 Pro
