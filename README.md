@@ -1,40 +1,46 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,14,24&height=220&section=header&text=Lonestar1306&fontSize=42&fontAlignY=38&animation=twinkling&desc=System%20Administrator%20%7C%20Backend%20Developer%20%7C%20Homelab%20Enthusiast&descFontSize=16&descAlignY=60&theme=tokyonight" width="100%" alt="Header Banner"/>
+  <h1><code>&gt; /usr/bin/whoami --Lonestar1306</code></h1>
+  <h3>System Administrator | Homelab Architect | Android & Backend Dev</h3>
 
   <br/>
 
-  <!-- Typing Effect Dinamico -->
+  <!-- Typing Effect Dinamico (Hostato su Demolab, molto stabile) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Automating+the+world+by+day...;Securing+sectors+in+Tarkov+%26+Ready+or+Not;Building+Proxmox+%26+Docker+Homelabs;May+your+uptime+be+high+and+ping+be+low+%F0%9F%96%96" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Automating+the+world+by+day...;Building+Android+Experiences+%F0%9F%93%B1;Architecting+Proxmox+%26+Docker+Homelabs+%F0%9F%96%A7%EF%B8%8F;Securing+sectors+in+Tarkov+%26+Ready+or+Not+%F0%9F%8E%AF;May+your+uptime+be+high+and+ping+be+low+%F0%9F%96%96" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://github.com/Lonestar1306"><img src="https://komarev.com/ghpvc/?username=Lonestar1306&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/></a>
-    <img src="https://img.shields.io/badge/Status-Automating%20Everything-2ea44f?style=flat-square&logo=githubactions&logoColor=white" alt="Status"/>
-    <img src="https://img.shields.io/badge/Focus-Infrastructure%20%26%20Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Focus"/>
+    <a href="https://github.com/Lonestar1306"><img src="https://komarev.com/ghpvc/?username=Lonestar1306&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+    <img src="https://img.shields.io/badge/Status-Automating%20Everything-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status"/>
+    <img src="https://img.shields.io/badge/Uptime-99.99%25-00ADD8?style=for-the-badge&logo=linux&logoColor=white" alt="Uptime"/>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Transmission // About Me
+### 👨‍💻 Transmission // `whoami`
 
-```yaml
-identity:
-  name: Giovanni
-  callsign: Lonestar1306
-  role: System Administrator / IT Professional
-  location: Italy
-passions:
-  core: [Homelab Architecture, LXC & Docker, Perl/JS Development, Local LLMs]
-  culture: [Tactical Milsim Gaming, Static Car Meets, Batman Noir Comics, Guitar]
-current_projects:
-  - Managing Proxmox environments & CGNAT bypass with Tailscale 📡
-  - Engineering automated IPTV/Media pipelines (Pirates TV) 🏴‍☠️
-  - Deploying local AI endpoints via vLLM & Qwen 🤖
+```json
+{
+  "identity": {
+    "name": "Giovanni",
+    "callsign": "Lonestar1306",
+    "role": "System Administrator / IT Professional",
+    "base_of_operations": "Italy"
+  },
+  "passions": {
+    "tech": ["Homelab Architecture", "Android Dev", "Local LLMs", "LXC & Docker", "Developer"],
+    "culture": ["Gaming", "Static Car Meets", "Comics & TCGs", "Guitar", "Nerd Culture"]
+  },
+  "current_directives": [
+    "Expanding mobile ecosystems with native Android development 📱",
+    "Scaling Proxmox environments 📡",
+    "Engineering automated IPTV/Media pipelines (Pirates TV) 🏴‍☠️",
+    "Deploying local AI endpoints via vLLM & Qwen 🤖"
+  ]
+}
 ```
 
 ---
@@ -50,19 +56,32 @@ current_projects:
 ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-#### Languages & Backend Logic
+#### Mobile & Frontend
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Backend Logic & Data
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
-#### Web & Tooling
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
+
+---
+
+### 🖧 The Homelab Matrix
+> *"If buying isn't owning, Piracy isn't stealing..."*
+
+Oltre a scrivere codice, gestisco un'infrastruttura di self-hosting completa:
+- **Core Hardware:** Lenovo ThinkCentre M80q Tiny (Proxmox Node)
+- **Network Stack:** Connettività Starlink bilanciata su infrastruttura di rete Ubiquiti + UGREEN NASync DXP4800 Pro (30TB), tutto interconnesso via Tailscale Mesh.
+- **Media & Services:** Stack Docker completo con Jellyfin (accelerazione hardware Intel QuickSync), Dispatcharr, Prowlarr, Sonarr e Radarr.
+- **Development:** Ambienti isolati LXC per testare le pipeline di Pirates TV, backend scriptati in Python e deployment di LLM locali.
 
 ---
 
@@ -73,8 +92,8 @@ current_projects:
 <br>
 
 - **The Rig:** Alienware Area 51 AAT2250
-- **CPU / GPU:** Intel Core Ultra 9 285K | NVIDIA GeForce RTX 5080 | 32GB DDR5 @6400
-- **Cooling:** 3 Noctua NF-A12x25 G2 (360mm Radiator) + 2 Noctua NF-A14x25 G2
+- **CPU / GPU:** Intel Core Ultra 9 285K | NVIDIA GeForce RTX 5080 | 32GB DDR5 @6400mt/s
+- **Cooling:** 3x Noctua NF-A12x25 G2 (360mm Rad) + 2x Noctua NF-A14x25 G2 
 - **Displays:** 39" Alienware AW3926QW
 - **Audio:** Sennheiser Momentum 4 | Logitech G YETI | Logitech Z906 5.1 System
 - **Console:** PlayStation 5 Pro
@@ -84,10 +103,11 @@ current_projects:
 
 | Category | Field Log |
 | :--- | :--- |
-| **🎮 Gaming Stuff** | ARMA III/Reforger, Squad, Tarkov, WoW, Dota 2, FF XIV. In GTA Online, you'll find me using Ghost Organization tactics. |
-| **🏎️ Car Stuff** | Static Meet organizer. Huge weak spot for American V8s and JDM car culture. |
-| **🗯️ Nerd Stuff** | Collector of DC/Batman Comics, MTG, YuGiOh and boardgames. |
-| **🎸 Music Stuff** | Campfire guitarist exploring the transition to digital piano. |
+| **📱 Dev Stuff** | Creazione di esperienze native Android, sviluppo di soluzioni backend e devOps, automation engineering e System Administration. |
+| **🎮 Gaming Stuff** | ARMA III/Reforger, Squad, Tarkov, WoW, Dota 2, FF XIV. |
+| **🏎️ Car Stuff** | Organizzatore di eventi statici. Ho un debole per i V8 Americani. |
+| **🗯️ Nerd Stuff** | Collezionista di fumetti (Batman in primis), MTG, YuGiOh e boardgames. |
+| **🎸 Music Stuff** | Chitarrista da falò in esplorazione verso il mondo del pianoforte. |
 
 ---
 
@@ -97,18 +117,19 @@ current_projects:
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Lonestar1306&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" width="100%" alt="Stats Card" />
+        <!-- Usando un provider alternativo più stabile -->
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lonestar1306&theme=tokyonight" width="100%" alt="Stats Card" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lonestar1306&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=c0caf5" width="100%" alt="Top Languages Card" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lonestar1306&theme=tokyonight" width="100%" alt="Top Languages Card" />
       </td>
     </tr>
   </table>
   
   <br/>
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lonestar1306&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- Streak Stats Card (Questo era stabile quindi l'ho lasciato) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lonestar1306&theme=tokyonight&hide_border=true&background=0D1117&ring=7aa2f7&fire=bb9af7&currStreakNum=c0caf5" alt="GitHub Streak" />
 </div>
 
 ---
@@ -118,12 +139,23 @@ current_projects:
   ### 📡 Open Frequencies // Let's Connect
 
   <a href="https://linktr.ee/l0n3st4r" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-1DE9B6?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/>
+    <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
   <a href="https://steamcommunity.com/id/Trane1306/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+    <img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white" alt="Steam"/>
   </a>
-
+  <a href="https://www.instagram.com/bootleg_boi.mpeg" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.reddit.com/user/TraneLonewolf1306" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+  <a href="https://x.com/Trane1306" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://open.spotify.com/user/jnm3oln79xqkgqovxcm8fhri5" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
   <br/><br/>
   <sub><i>"May your uptime be high, your latency low, and your commits frequent."</i> 🖖</sub>
 
